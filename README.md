@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyanshu4-oss
 - 👀 I’m interested in web develpment
-- 🌱 I’m currently learning python django
+- 🌱 I’m currently learning python 
 - 📫 How to reach me (divyanshukumar1980@gmail.com)
 
 <!---
